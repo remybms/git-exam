@@ -1,0 +1,6 @@
+Git revert annule un commit en créant un nouveau commit inverse
+En effet, il ne modifie pas l'historique.
+
+Git reset, en revanche, modifie l'historique en déplaçant le HEAD
+Il peut supprimer les commits localement,
+il ne doit surtout pas être utilisé sur un dépôt déjà partagé
