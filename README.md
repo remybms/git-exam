@@ -1,1 +1,1 @@
-une fonctionalité
+deux fonctionalités
