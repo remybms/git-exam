@@ -1,1 +1,1 @@
-deux fonctionalités
+deux fonctionalités aléatoires
